@@ -3,3 +3,4 @@ yarn*
 *vscode
 .cache
 *-lock.*
+dist
